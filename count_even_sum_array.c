@@ -15,6 +15,6 @@ int main()
             count++;
         }
     }
-    printf("Summation of %d values : %d\n",count,sum);
+    printf("Summation of %d Enen values : %d\n",count,sum);
     return 0;
 }
